@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:E05D5D,100:f97316&height=120&section=header&text=Bhavisha%20Patel&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+# Bhavisha Patel
+
+**AI / ML Engineer &nbsp;·&nbsp; LLM Systems &nbsp;·&nbsp; Multimodal AI**
+
+Turning research into systems that ship —&nbsp; RAG, fine-tuning, agentic pipelines, and efficient inference.
 
 <br />
 
-### `AI / ML Engineer` &nbsp;·&nbsp; `LLM Systems` &nbsp;·&nbsp; `Curious. Consistent. Building.`
-
-*Turning complex AI research into production-ready systems —*
-*RAG · fine-tuning · agentic pipelines · multimodal AI*
+![](https://img.shields.io/badge/Focus-LLM%20Systems-1a1a2e?style=for-the-badge)
+![](https://img.shields.io/badge/Focus-RAG%20%26%20Agents-E05D5D?style=for-the-badge)
+![](https://img.shields.io/badge/Focus-Efficient%20Fine--Tuning-f97316?style=for-the-badge)
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavisha_Patel-E05D5D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavisha-patel-63116a2b5/)
-[![Email](https://img.shields.io/badge/Gmail-pbhavu1507@gmail.com-f97316?style=flat-square&logo=gmail&logoColor=white)](mailto:pbhavu1507@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:E05D5D,100:1a1a2e&height=80&section=footer" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavisha%20Patel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavisha-patel-63116a2b5/)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-pbhavu1507%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pbhavu1507@gmail.com)
 
 </div>
